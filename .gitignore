@@ -19,3 +19,4 @@ sdkconfig.defaults
 
 .vscode/
 .history/
+.devcontainer/
